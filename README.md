@@ -5,3 +5,7 @@ https://github.com/mozilla/geckodriver/releases
 
 要先安裝selenium     
 pip install selenium
+
+
+username = 'username'
+password = 'password'
